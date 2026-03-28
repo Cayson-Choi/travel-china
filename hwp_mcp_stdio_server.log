@@ -1,0 +1,7 @@
+2026-03-28 15:29:42,023 - hwp-mcp-stdio-server - INFO - FastMCP successfully imported
+2026-03-28 15:29:42,054 - hwp-mcp-stdio-server - INFO - HwpController imported successfully
+2026-03-28 15:29:42,055 - hwp-mcp-stdio-server - INFO - HwpTableTools imported successfully
+2026-03-28 15:29:42,103 - hwp-mcp-stdio-server - INFO - Starting HWP MCP stdio server
+2026-03-28 15:29:42,118 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2026-03-28 15:29:42,120 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2026-03-28 15:29:42,121 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest

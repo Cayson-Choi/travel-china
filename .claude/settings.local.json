@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -L -o \"D:/Antigravity/중국온주관광/images/01_wenzhou_city.jpg\" \"https://news.66wz.com/pic/003/004/350/00300435084_04c3ac99.jpg\")",
+      "Bash(curl -L -o \"D:/Antigravity/중국온주관광/images/02_yandangshan_1.jpg\" \"https://zx.wzyds.com/u/cms/www/201909/02094843f5d1.jpg\")",
+      "Bash(curl -L -o \"D:/Antigravity/중국온주관광/images/02_yandangshan_2.png\" \"https://cd.mls.66han.com/s/f/image/2020/11/23/11/20201123114807022.png\")",
+      "Bash(curl -L -o \"D:/Antigravity/중국온주관광/images/03_homm_hotel_1.jpg\" \"https://cdn.prod.website-files.com/61483959129c949967917593/682411eaffce5b1210f7c462_ho-wenzhou-property-1.jpg\")",
+      "Bash(curl -sL https://spachina.com/2025/10/09/%E6%B8%A9%E5%B7%9E%E6%A5%A0%E6%BA%AA%E6%B1%9F%E9%B8%BF%E5%B1%85%E6%B8%A9%E6%B3%89%E9%85%92%E5%BA%97/)",
+      "Bash(curl -L -o \"D:/Antigravity/중국온주관광/images/03_homm_hotel_2.jpg\" \"https://i0.wp.com/spachina.com/wp-content/uploads/2025/10/1753174525947.jpg?fit=1200%2C700&ssl=1\")",
+      "Bash(curl -L -o \"D:/Antigravity/중국온주관광/images/06_caihuagu.jpg\" \"https://youimg1.c-ctrip.com/target/100v0t000000ivcelFBDF.jpg\")",
+      "Bash(curl -L -o \"D:/Antigravity/중국온주관광/images/06_caihuagu.jpg\" \"https://so1.360tres.com/t015e3f433eab9a072c.jpg\")",
+      "Bash(gh api:*)",
+      "Bash(curl -sI \"https://travel-china.vercel.app/og.png\")",
+      "Bash(curl -sI \"https://travel-china.vercel.app/images/01_wenzhou_city.jpg\")",
+      "Bash(curl -sI \"https://travel-china-seven.vercel.app/og.png\")"
+    ]
+  }
+}

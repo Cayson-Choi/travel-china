@@ -353,23 +353,24 @@
     top: 50%;
     transform: translateY(-50%);
     z-index: 100;
-    background: rgba(255,255,255,0.1);
-    backdrop-filter: blur(6px);
-    border: 1px solid rgba(255,255,255,0.15);
-    color: #fff;
-    width: 44px; height: 44px;
+    background: transparent;
+    border: none;
+    color: rgba(255,255,255,0.3);
+    width: 36px; height: 36px;
     border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
     cursor: pointer;
-    font-size: 18px;
+    font-size: 20px;
     transition: all 0.25s;
     user-select: none;
+    opacity: 0;
   }
-  .nav-arrow:hover { background: rgba(255,255,255,0.2); }
-  .nav-arrow.prev { left: 14px; }
-  .nav-arrow.next { right: 14px; }
+  .slider:hover .nav-arrow { opacity: 1; }
+  .nav-arrow:hover { background: rgba(255,255,255,0.1); color: #fff; }
+  .nav-arrow.prev { left: 4px; }
+  .nav-arrow.next { right: 4px; }
   .nav-arrow.hidden { opacity: 0; pointer-events: none; }
 
   /* Page counter */
